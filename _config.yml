@@ -16,7 +16,7 @@ theme_settings:
   # Header and footer text
   header_text: > #two or three lines to describe your site
      <p>The Best Jerry, The Best</p>
-  header_text_feature_image: Mendys-Crown-Heights.jpg
+  header_text_feature_image: assets/img/pexels/Mendys-Crown-Heights.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
